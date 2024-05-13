@@ -1,3 +1,5 @@
+OK - Professor Parisotto
+
 # # Como CLONAR um repositório do GITHUB com o Visual Code
 1 No GITHUB abra o repositório e clique no botão CODE -> Local -> copiar link do repositório
 2 No Visual Code abra a pasta de seus projetos ( exemplo: Documentos/Python/ )
