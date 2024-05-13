@@ -25,3 +25,4 @@ while i < quantidade:
     numero += 2
 
 print(f"Lista com os primeiros {len(primos)} números primos:\n{primos}")
+
